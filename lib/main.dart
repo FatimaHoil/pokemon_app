@@ -1,13 +1,12 @@
 import 'dart:async';
-import 'package:pokemon_app_games/characters/oak.dart';
-import 'package:pokemon_app_games/maps/battle/battleground_pm.dart';
-import 'package:pokemon_app_games/maps/boundaries.dart';
 import 'package:flutter/material.dart';
-import 'package:pokemon_app_games/button.dart';
-import 'package:pokemon_app_games/characters/boy.dart';
-import 'package:pokemon_app_games/maps/littleroot.dart';
-import 'package:pokemon_app_games/maps/pokelab.dart';
-import 'package:pokemon_app_games/maps/pokelabboundaries.dart';
+import 'package:pokemon_app/button.dart';
+import 'package:pokemon_app/characters/boy.dart';
+import 'package:pokemon_app/characters/oak.dart';
+import 'package:pokemon_app/maps/boundaries.dart';
+import 'package:pokemon_app/maps/littleroot.dart';
+import 'package:pokemon_app/maps/pokelab.dart';
+import 'package:pokemon_app/maps/pokelabboundsries.dart';
 
 void main() {
   runApp(const MyApp());
